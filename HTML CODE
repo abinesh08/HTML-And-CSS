@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible"content="IE=edge"/>
+        <meta name=" viewport"content="width=device-width,initial-scale=1.0"/>
+        <title>CSS project</title>
+        <link rel="stylesheet"href="website.css"/>
+        <section class="hero-img">
+            <div class="hero-wrapper">
+                <h1>Food is Awesome!</h1>
+                <p>
+                    Here the Taste of food is really awesome.And customer satisfy with spending low cost.Reach of this shop is really good.
+                    <form action="">
+                        <input type="text" placeholder="your favourite"><br>
+                        <button type="submit">find food</button>
+                    </form>
+                    <p class="anchor">
+                        This is our website
+                        <a href="https://www.food.com/">check here</a>
+                    </p>
+                </p>
+            </div>
+        </section>
+        
+    </head>
+
+</html>
